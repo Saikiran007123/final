@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+streamlit_modal
+pinecone-client
+poppler-utils
+sentence-transformers
+langchain
+openai
+snowflake-snowpark-python
+snowflake-snowpark-connector
